@@ -1,7 +1,7 @@
 # lead_filterating_tool
 
 
-# 💡 ODBus Intelligent Lead Filtration Tool
+# ODBus Intelligent Lead Filtration Tool
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ Our solution stands out by offering:
 * **Ethical Data Collection & Open Source Leveraging:** By utilizing the publicly available and legitimately licensed Canadian ODBus, the tool avoids the legal and ethical complexities associated with web scraping, ensuring a sustainable and compliant data source.
 * **Seamless Data Export:** Filtered and prioritized lead lists are immediately downloadable as a clean CSV file, ready for direct integration into CRM systems or other sales workflow tools.
 
-## ✨ AI Readiness Justification
+## AI Readiness Justification
 
 This tool is a fundamental step in building an AI-powered sales strategy:
 
@@ -29,7 +29,7 @@ This tool is a fundamental step in building an AI-powered sales strategy:
     * **Automated Outreach Personalization:** Using NAICS descriptions and lead scores to tailor initial contact messages.
 * **Scalability for AI Workloads:** The underlying `pandas` framework ensures the solution can handle growing datasets, supporting the iterative development and deployment of more complex AI solutions.
 
-## 🚀 How to Use the App & Explore the Code
+## How to Use the App & Explore the Code
 
 The ODBus Intelligent Lead Filtration Tool is deployed and fully functional on our GitHub Space!
 
