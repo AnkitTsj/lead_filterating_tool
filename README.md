@@ -49,7 +49,7 @@ If you wish to run the application locally or explore the code in your own envir
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AnkitTsj/lead_filterating_tool.git](https://github.com/AnkitTsj/lead_filterating_tool.git)
+    git clone https://github.com/AnkitTsj/lead_filterating_tool.git
     cd your-repo-name
     ```
 
